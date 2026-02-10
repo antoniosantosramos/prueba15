@@ -2,4 +2,7 @@ soy info_a1
 
 modificando desde master
 
-remodificando desde master
+
+remodificando desde master pero tarea c lo sabe
+modificando desde tarea_c y master lo sabe
+
